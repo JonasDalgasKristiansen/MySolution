@@ -10,7 +10,14 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [],
+  "dependencies": [
+  {
+  "id": "7cbe8dc8-70a3-494d-ba52-192e74a83ba9",
+  "name": "mysolution.w1",
+  "publisher": "Jonas",
+  "version": "1.0.0.0"
+  }
+  ],
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "22.0.0.0",
